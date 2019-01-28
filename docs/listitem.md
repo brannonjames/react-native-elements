@@ -241,7 +241,7 @@ import LinearGradient from 'react-native-linear-gradient'; // Only if no expo
 
 - [`Component`](#Component)
 - [`containerStyle`](#containerstyle)
-- [`contentContainerStyle`](#contentcontainerstyle)
+- [`wrapperStyle`](#wrapperstyle)
 - [`rightContentContainerStyle`](#rightcontentcontainerstyle)
 - [`chevron`](#chevron)
 - [`checkmark`](#checkmark)
@@ -301,7 +301,7 @@ additional main container styling (optional)
 
 ---
 
-### `contentContainerStyle`
+### `wrapperStyle`
 
 additional wrapper styling (title and subtitle container)
 
